@@ -241,12 +241,11 @@ export default function shore() {
                 <div className="content  " id="ruaComercio">
                   <iframe
                     loading="lazy"
-                    tabindex="0"
+                    tabIndex="0"
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.2361946011797!2d-9.125394348869927!3d38.71238587949953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19340ad3edf913%3A0xf4b3092a10ddd415!2sCruise%20Port!5e0!3m2!1spt-PT!2spt!4v1597768735370!5m2!1spt-PT!2spt"
                     width="100%"
                     height="480"
-                    frameborder="0"
-                    allowfullscreen="allowfullscreen"
+                    allowFullScreen="allowfullscreen"
                     aria-hidden="false"
                   ></iframe>
                 </div>

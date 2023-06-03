@@ -422,12 +422,11 @@ export default function allInc() {
                 {showHardRock && (
                   <div className="conent" id="rockCafe">
                     <iframe
-                      tabindex="0"
+                      tabIndex="0"
                       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3113.0493622300105!2d-9.14394868438769!3d38.7166756651811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd19338110b45f51%3A0xf96a8bcb4f69e12d!2sHard%20Rock%20Cafe!5e0!3m2!1spt-PT!2spt!4v1597766384616!5m2!1spt-PT!2spt"
                       width="100%"
                       height="480"
-                      frameborder="0"
-                      allowfullscreen="allowfullscreen"
+                      allowFullScreen="allowfullscreen"
                       aria-hidden="false"
                     ></iframe>
                   </div>
@@ -436,12 +435,11 @@ export default function allInc() {
                   <div className="content" id="ruaComercio">
                     <iframe
                       loading="lazy"
-                      tabindex="0"
+                      tabIndex="0"
                       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3424.0375136981074!2d-9.138011618217591!3d38.70803230711435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1934798e0fb3b5%3A0x7adaf06bc078d77c!2sR.%20do%20Com%C3%A9rcio%2C%20Lisboa!5e0!3m2!1spt-PT!2spt!4v1597766530493!5m2!1spt-PT!2spt"
                       width="100%"
                       height="480"
-                      frameborder="0"
-                      allowfullscreen="allowfullscreen"
+                      allowFullScreen="allowfullscreen"
                       aria-hidden="false"
                     ></iframe>
                   </div>
