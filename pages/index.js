@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Carousel, Banner, Tours, Reviews, PreFooter } from "../components";
-
 import Image1 from "../public/assets/images/car1.jpg";
 import Image2 from "../public/assets/images/car2.jpg";
 import Image3 from "../public/assets/images/car3.jpg";

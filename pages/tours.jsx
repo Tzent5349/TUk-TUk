@@ -1,5 +1,6 @@
 import React from "react";
 import { Query } from "../components";
+import { useRouter } from "next/router";
 
 import Tram28 from "../public/assets/images/Follow1.jpg";
 import OldTown from "../public/assets/images/OldTown1.webp";
@@ -12,6 +13,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const tours = () => {
+  const router = useRouter();
   const TourPack = [
     {
       name: "Follow Tram 28",
@@ -119,7 +121,7 @@ const tours = () => {
 
                 <div className="button sm:w-full md:w-auto shadow-xl">
                   <Link href={{pathname:packages.link}} className="">
-                    <button className="bg-primary text-center w-full  text-4xl text-neutral inline-block font-bold items-center justify-center px-14 md:px-28 py-4 rounded-lg">
+                    <button onClick={()=>{router.push("/"+packages.link)}} className="bg-primary text-center w-full  text-4xl text-neutral inline-block font-bold items-center justify-center px-14 md:px-28 py-4 rounded-lg">
                       Learn More
                     </button>
                   </Link>
