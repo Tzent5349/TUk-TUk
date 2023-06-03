@@ -1,0 +1,10 @@
+export {default as Navbar} from "./Navbar";
+export {default as Banner} from "./Banner";
+export {default as Carousel} from "./Carousel";
+export {default as Tours} from "./Tours";
+export {default as Reviews} from "./Reviews";
+export {default as PreFooter} from "./PreFooter";
+export {default as Footer} from "./Footer";
+export {default as Query} from "./Query";
+export {default as Sidebar} from "./Sidebar";
+export {default as Questions} from "./Questions";
