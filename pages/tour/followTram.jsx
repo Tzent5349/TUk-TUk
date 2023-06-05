@@ -44,22 +44,22 @@ export default function Followtram() {
             {/* From here starts desc part */}
             <div className="routeDesc mt-6 flex flex-col gap-8 font-normal text-[#747474] font-Sans">
               <p>
-                The 28 Tram is Lisbon's beloved and legendary attraction. In the
+                The 28 Tram is Lisbon&apos;s beloved and legendary attraction. In the
                 past few years the increasing number of tourists has meant that
                 this route is always packed, so you may expect the pretty yellow
-                tram arriving already crowded… And that's why we'll comfortably
+                tram arriving already crowded… And that&apos;s why we&apos;ll comfortably
                 “follow it” aboard our eco tuk-tuks!
               </p>
               <p>
-                The circuit is practically the same, we'll optimize it according
+                The circuit is practically the same, we&apos;ll optimize it according
                 to our vehicle characteristics, the time available and by
-                choosing what we consider the unmissable spots, and we'll do it
+                choosing what we consider the unmissable spots, and we&apos;ll do it
                 with tranquillity, great view and no carbon trail.
               </p>
               <p>
                 The 28 Tram is the most famous public tour in Lisbon and is a
                 kind of journey through time among the hills and narrow streets
-                passing by the city's most famous historical areas, and that's
+                passing by the city&apos;s most famous historical areas, and that&apos;s
                 why we know you should do it.
               </p>
               <p>
@@ -67,7 +67,7 @@ export default function Followtram() {
                 narrow streets, prepare to discover beautiful places such as the
                 vibrant Graça neighbourhood, the monumental Lisbon Cathedral,
                 the cosmopolitan Chiado and Bairro Alto, which is considered
-                Lisbon's bohemian area and possibly considered one of the best
+                Lisbon&apos;s bohemian area and possibly considered one of the best
                 spots in Europe for a night out, just to name a few.
               </p>
               <p>Jump in my Eco-Tuk and follow the 28 Tram!</p>

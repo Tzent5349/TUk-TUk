@@ -40,8 +40,8 @@ export default function Shore() {
             <div className="routeDesc mt-6 flex flex-col gap-8 font-normal text-[#747474] font-Sans">
               <p>
                 We curated this private tour specifically for a shore excursion.
-                You’ll visit the top highlights historical Lisbon, the must have
-                places in 3h00. Guarantee that it’s the best option to discover
+                You&apos;ll visit the top highlights historical Lisbon, the must have
+                places in 3h00. Guarantee that it&apos;s the best option to discover
                 the most of Lisbon with a local guide.{" "}
               </p>
               <p>
@@ -63,7 +63,7 @@ export default function Shore() {
                 through its historic and cultural heritage.
               </p>
               <p>
-                Our local guides will to take you along Lisbon’s oldest
+                Our local guides will to take you along Lisbon&apos;s oldest
                 quarters, the most picturesque and colorful neighborhoods
                 characterized by its narrow streets, winding alleyways, steep
                 flights of steps and old ladies at the windows.
@@ -76,8 +76,8 @@ export default function Shore() {
               <p>
                 The highest point in Lisbon is located in Graça and we will
                 climb it together in a 3 wheels electric tuk until we reach the
-                beautiful belvedere that kisses the sky. It’s called “Nossa
-                Senhora do Monte” belvedere and it’s high, impressive, with an
+                beautiful belvedere that kisses the sky. It&apos;s called “Nossa
+                Senhora do Monte” belvedere and it&apos;s high, impressive, with an
                 astonishing view over the city.
               </p>
             </div>
@@ -109,7 +109,7 @@ export default function Shore() {
                   <span>
                     <MdDone className="text-2xl text-[#95C11F] " />
                   </span>
-                  <p>Pick up and drop off at Lisbon’s Cruise Terminal.</p>
+                  <p>Pick up and drop off at Lisbon&apos;s Cruise Terminal.</p>
                 </div>
                 <div className="flex  gap-4">
                   <span>
@@ -131,9 +131,9 @@ export default function Shore() {
                       <h1 className="font-medium text-lg text-black">Alfama</h1>
                     </span>
                     <p>
-                      The city’s oldest neighborhood, home to traditional Fado
+                      The city&apos;s oldest neighborhood, home to traditional Fado
                       houses and colorful narrow streets. A place where you feel
-                      like you’ve stepped back in time.
+                      like you&apos;ve stepped back in time.
                     </p>
                   </div>
                   <div className=" flex flex-col md:gap-4 w-full">
@@ -201,9 +201,9 @@ export default function Shore() {
                       <h1 className="font-medium text-lg text-black">Baixa</h1>
                     </span>
                     <p>
-                      The heart of Lisbon connecting all quarters, it’s a true
+                      The heart of Lisbon connecting all quarters, it&apos;s a true
                       fusion of Portuguese culture, history and houses the
-                      capital’s most emblematic squares and streets.
+                      capital&apos;s most emblematic squares and streets.
                     </p>{" "}
                   </div>
                 </div>
@@ -218,7 +218,7 @@ export default function Shore() {
                     </span>
 
                     <p>
-                      One of Lisbon’s oldest and most traditional neighborhoods
+                      One of Lisbon&apos;s oldest and most traditional neighborhoods
                       with a magnificent viewpoint over saint George castle.{" "}
                     </p>
                   </div>

@@ -21,7 +21,7 @@ const OldTown = () => {
               Lisbon Old Town Tour
             </h1>
             <h3 className=" text-2xl tracking-widest font-semibold">
-              TRAVEL BACK IN TIME AND LEARN ABOUT LISBON’S STORIES
+              TRAVEL BACK IN TIME AND LEARN ABOUT LISBON&apos;S STORIES
             </h3>
 
             {/* Price and duration info */}
@@ -45,7 +45,7 @@ const OldTown = () => {
               <p>
                 This tour is perfect for those who wish to discover the city
                 through its historic and cultural heritage. Our fearless drivers
-                will to take you along Lisbon’s oldest quarters, the most
+                will to take you along Lisbon&apos;s oldest quarters, the most
                 picturesque and colourful neighbourhoods characterized by its
                 narrow streets, winding alleyways, steep flights of steps and
                 old ladies at the windows.
@@ -62,8 +62,8 @@ const OldTown = () => {
               <p>
                 The highest point in Lisbon is located in Graça and we will
                 climb it together in a 3 wheels electric tuk until we reach the
-                beautiful belvedere that kisses the sky. It’s called “Nossa
-                Senhora do Monte” belvedere and it’s high, impressive, with an
+                beautiful belvedere that kisses the sky. It&apos;s called “Nossa
+                Senhora do Monte” belvedere and it&apos;s high, impressive, with an
                 astonishing view over the city and if you fall down… Forget that
                 option.
               </p>
@@ -115,9 +115,9 @@ const OldTown = () => {
                       <h1 className="font-medium text-lg text-black">Alfama</h1>
                     </span>
                     <p>
-                      The city’s oldest neighborhood, home to traditional Fado
+                      The city&apos;s oldest neighborhood, home to traditional Fado
                       houses and colorful narrow streets. A place where you feel
-                      like you’ve stepped back in time.
+                      like you&apos;ve stepped back in time.
                     </p>
                   </div>
                   <div className=" flex flex-col md:gap-4 w-full">

@@ -59,7 +59,7 @@ export default function AllInc() {
               </p>
               <p>
                 We have a list of things that we would like to show you in
-                Lisbon. See if there’s something on this list that you may
+                Lisbon. See if there&apos;s something on this list that you may
                 appreciate:
               </p>
               <p>
@@ -67,7 +67,7 @@ export default function AllInc() {
                 palaces, churches, a glorious castle, splendid decorative tiles,
                 fresh seafood to eat outside a tasca (bar) in the sun, an
                 exuberant district called Bairro Alto with more than 250
-                appealing bars, the world’s best custard cakes, Fado music, the
+                appealing bars, the world&apos;s best custard cakes, Fado music, the
                 poetry of Fernando Pessoa, surf and ferries, fabulous design,
                 museums, awarded wines, craft beer, 7 cinematic hills, ancient
                 ruins, outstanding architecture, belvederes, the iconic yellow
@@ -97,7 +97,7 @@ export default function AllInc() {
                 <p>
                   Codfish Cake – For a petisco (snack) you can´t miss the chance
                   to try the traditional “pastel de bacalhau” (codfish cake).
-                  Bacalhau (codfish) is one of Portugal’s culinary mascots.
+                  Bacalhau (codfish) is one of Portugal&apos;s culinary mascots.
                 </p>
               </div>
             </div>
@@ -151,7 +151,7 @@ export default function AllInc() {
                     </span>
 
                     <p>
-                      Lisbon’s main square. Before it was destroyed by the
+                      Lisbon&apos;s main square. Before it was destroyed by the
                       earthquake of 1755, the Royal Palace was located here and
                       this place worked as the commercial port of the city, it
                       was considered the “door” to Lisbon.
@@ -167,9 +167,9 @@ export default function AllInc() {
                     </span>
 
                     <p>
-                      The city’s oldest neighborhood, home to traditional Fado
+                      The city&apos;s oldest neighborhood, home to traditional Fado
                       houses and colorful narrow streets. A place where you feel
-                      like you’ve stepped back in time.
+                      like you&apos;ve stepped back in time.
                     </p>
                   </div>
                 </div>
@@ -276,7 +276,7 @@ export default function AllInc() {
 
                     <p>
                       This is the monumental historic district of the Age of
-                      Discovery, here you’ll find the magnificent World Heritage
+                      Discovery, here you&apos;ll find the magnificent World Heritage
                       monuments, wonderful parks, gardens and the Tagus River as
                       landscape.
                     </p>
@@ -386,7 +386,7 @@ export default function AllInc() {
                     <p>
                       For a petisco (snack) you can´t miss the chance to try the
                       traditional “pastel de bacalhau” (codfish cake). Bacalhau
-                      (codfish) is one of Portugal’s culinary mascots.
+                      (codfish) is one of Portugal&apos;s culinary mascots.
                     </p>
                   </div>
                 </div>

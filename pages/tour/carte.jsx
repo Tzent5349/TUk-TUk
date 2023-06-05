@@ -42,16 +42,16 @@ const Carte = () => {
             
 1h to 4h
 
-With this option we can do it your way! But don’t get too excited, of course we have the last word and that word is “reasonable”… We know that our imagination can be tricky sometimes and for that reason no, we can´t take you to Rome to eat a pizza and come back to Lisbon in time for a portuguese sardines’ dinner.
+With this option we can do it your way! But don&apos;t get too excited, of course we have the last word and that word is “reasonable”… We know that our imagination can be tricky sometimes and for that reason no, we can´t take you to Rome to eat a pizza and come back to Lisbon in time for a portuguese sardines&apos; dinner.
             </p>
             <p>
             Our drivers will design a tour according to your preferences and following the best routes that may exist. Between 1h to 4h we want you to see as many beautiful and important locations as possible, and you can trust our drivers, they know exactly where you can find the best attractions in town.
             </p>
             <p>
-            If you’re short on time and only have 1 hour, our advice is to have a chat with your driver and choose one of the gorgeous 7 hills. We know all the hills of this city like the palm of our hands, and we will tell you a little bit about each of these beautiful viewpoints so you’ll be able to make the best choice for your group.
+            If you&apos;re short on time and only have 1 hour, our advice is to have a chat with your driver and choose one of the gorgeous 7 hills. We know all the hills of this city like the palm of our hands, and we will tell you a little bit about each of these beautiful viewpoints so you&apos;ll be able to make the best choice for your group.
             </p>
             <p>The journey up to any of the 7 hills is always a beautiful circuit and you can even choose between either the modern or the historic part of the city.</p>
-            <p>For a wider and deeper perspective of the city a longer tour will allow you to discover Lisbon in its full potential. From the historic districts to the most fashionable quarters and modern areas in town, you won’t be disappointed with the many hidden treasures that Lisbon has to offer you.</p>
+            <p>For a wider and deeper perspective of the city a longer tour will allow you to discover Lisbon in its full potential. From the historic districts to the most fashionable quarters and modern areas in town, you won&apos;t be disappointed with the many hidden treasures that Lisbon has to offer you.</p>
             <p>We wish you a good choice!</p>
           </div>
 

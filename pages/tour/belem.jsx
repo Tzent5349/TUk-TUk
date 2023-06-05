@@ -45,9 +45,9 @@ export default function Belem() {
             <div className="routeDesc mt-6 flex flex-col gap-8 font-normal text-[#747474] font-Sans">
               <p>
                 Do you remember when the Portuguese ruled the World? We do and
-                we’re ready to show you what is left of the Golden Era. Lisbon
+                we&apos;re ready to show you what is left of the Golden Era. Lisbon
                 was the heart of international trade, we conquered North Africa,
-                we’ve discovered the Archipelagos of Madeira and the Azores, we
+                we&apos;ve discovered the Archipelagos of Madeira and the Azores, we
                 were the first to round Cabo Bojador and the Cape of Good Hope,
                 and then we landed in Brazil, Goa, Daman and Diu… All of these
                 (and other) remarkable conquers without nuclear weapons,
@@ -68,7 +68,7 @@ export default function Belem() {
                 shows and great tapas bars and restaurants.
               </p>
               <p>
-                We go up the hill and we’ll reach Príncipe Real an area known
+                We go up the hill and we&apos;ll reach Príncipe Real an area known
                 for its antique style, glamour and the beautiful Garden.
               </p>
               <p>
@@ -162,7 +162,7 @@ export default function Belem() {
 
                     <p>
                       This is the monumental historic district of the Age of
-                      Discovery, here you’ll find the magnificent World Heritage
+                      Discovery, here you&apos;ll find the magnificent World Heritage
                       monuments, wonderful parks, gardens and the Tagus River as
                       landscape.
                     </p>
