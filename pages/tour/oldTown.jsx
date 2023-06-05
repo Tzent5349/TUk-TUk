@@ -239,4 +239,4 @@ const OldTown = () => {
   );
 };
 
-export default oldTown;
+export default OldTown;

@@ -162,4 +162,4 @@ With this option we can do it your way! But don&apos;t get too excited, of cours
   )
 }
 
-export default carte
+export default Carte
