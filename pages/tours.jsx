@@ -136,4 +136,4 @@ const Tours = () => {
   );
 };
 
-export default tours;
+export default Tours;

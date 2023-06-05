@@ -37,4 +37,4 @@ const Gall = () => {
   )
 }
 
-export default gall
+export default Gall
