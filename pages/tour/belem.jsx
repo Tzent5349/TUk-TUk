@@ -6,7 +6,7 @@ import { FaMapMarkedAlt } from "react-icons/fa";
 
 import { useState } from "react";
 
-export default function belem() {
+export default function Belem() {
   const [showHardRock, setShowHardRock] = useState(true);
   const [showRuaComercio, setShowRuaComercio] = useState(false);
 

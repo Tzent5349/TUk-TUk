@@ -48,9 +48,9 @@ const Navbar = () => {
             <div className="links z-50 flex flex-col justify-center px-4 pb-4 bg-neutral-2 rounded-b-md items-center gap-8 absolute top-28 right-1">
               <button onClick={() => {setShowMobileMenu(false);setShowMobileMenuButton(true)}}>
                 <Link
-                  href={"/tours"}
+                  href={"/Tours"}
                   className={
-                    router.pathname == "/tours" ? "activeLink" : "inactiveLink"
+                    router.pathname == "/Tours" ? "activeLink" : "inactiveLink"
                   }
                 >
                   Tours
@@ -58,9 +58,9 @@ const Navbar = () => {
               </button>
               <button onClick={() => {setShowMobileMenu(false);setShowMobileMenuButton(true)}}>
                 <Link
-                    href={"/about"}
+                    href={"/About"}
                     className={
-                        router.pathname == "/about" ? "activeLink" : "inactiveLink"
+                        router.pathname == "/About" ? "activeLink" : "inactiveLink"
                     }
                     >
                     About
@@ -71,9 +71,9 @@ const Navbar = () => {
                 <button onClick={() => {setShowMobileMenu(false);setShowMobileMenuButton(true)}}>
 
               <Link
-                href={"/gallery"}
+                href={"/Gallery"}
                 className={
-                    router.pathname == "/gallery" ? "activeLink" : "inactiveLink"
+                    router.pathname == "/Gallery" ? "activeLink" : "inactiveLink"
                 }
                 >
                 Gallery
@@ -90,25 +90,25 @@ const Navbar = () => {
         <div className="linksForBigScreen hidden md:flex ml-auto items-center">
           <div className="links flex justify-center px-4 pb-4 bg-neutral-2 rounded-b-md items-center gap-8">
             <Link
-              href={"/tours"}
+              href={"/Tours"}
               className={
-                router.pathname === "/tours" ? "activeLink" : "inactiveLink"
+                router.pathname === "/Tours" ? "activeLink" : "inactiveLink"
               }
             >
               Tours
             </Link>
             <Link
-              href={"/about"}
+              href={"/About"}
               className={
-                router.pathname === "/about" ? "activeLink" : "inactiveLink"
+                router.pathname === "/About" ? "activeLink" : "inactiveLink"
               }
             >
               About
             </Link>
             <Link
-              href={"/gallery"}
+              href={"/Gallery"}
               className={
-                router.pathname === "/gallery" ? "activeLink" : "inactiveLink"
+                router.pathname === "/Gallery" ? "activeLink" : "inactiveLink"
               }
             >
               Gallery

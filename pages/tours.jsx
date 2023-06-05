@@ -12,7 +12,7 @@ import Carte from "../public/assets/images/carte.webp";
 import Image from "next/image";
 import Link from "next/link";
 
-const tours = () => {
+const Tours = () => {
   const router = useRouter();
   const TourPack = [
     {

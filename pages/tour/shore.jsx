@@ -4,7 +4,7 @@ import { Sidebar, Questions } from "../../components";
 import { MdDone } from "react-icons/md";
 import { FaMapMarkedAlt } from "react-icons/fa";
 
-export default function shore() {
+export default function Shore() {
   return (
     <>
       <div className="mainWrapper mt-16">

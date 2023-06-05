@@ -7,7 +7,7 @@ import { FaMapMarkedAlt, FaWineGlassAlt } from "react-icons/fa";
 
 import { useState } from "react";
 
-export default function allInc() {
+export default function AllInc() {
   const [showHardRock, setShowHardRock] = useState(true);
   const [showRuaComercio, setShowRuaComercio] = useState(false);
 

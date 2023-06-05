@@ -8,7 +8,7 @@ import Imaf from "../public/assets/images/abt.jpeg";
 import Ima from "../public/assets/images/view.jpg";
 
 
-const about = () => {
+const About = () => {
   return (
     <div className="aboutWrapper">
       <div className="aboutContainer">

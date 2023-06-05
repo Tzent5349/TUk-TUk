@@ -5,7 +5,7 @@ import { Sidebar, Questions } from "../../components";
 import { MdDone } from "react-icons/md";
 import { FaMapMarkedAlt } from "react-icons/fa";
 
-const oldTown = () => {
+const OldTown = () => {
   const [showHardRock, setShowHardRock] = useState(true);
   const [showRuaComercio, setShowRuaComercio] = useState(false);
 

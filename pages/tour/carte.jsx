@@ -6,7 +6,7 @@ import { MdDone } from "react-icons/md";
 import { FaMapMarkedAlt } from "react-icons/fa";
 
 
-const carte = () => {
+const Carte = () => {
     const [showHardRock, setShowHardRock] = useState(true);
     const [showRuaComercio, setShowRuaComercio] = useState(false);
   

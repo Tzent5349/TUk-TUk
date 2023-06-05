@@ -17,7 +17,7 @@ import Image12 from "../public/assets/images/gallery/12.jpeg";
 
 
 
-const gall = () => {
+const Gall = () => {
   const images = [{src:Image1},{src:Image2},{src:Image3},{src:Image4},{src:Image5},{src:Image6},{src:Image7},{src:Image8},{src:Image9},{src:Image10},{src:Image11},{src:Image12},/* {src:Image13}, */]
   return (
     <div className="gallerWrapper w-full mt-10">
